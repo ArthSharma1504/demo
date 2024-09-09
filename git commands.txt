@@ -1,0 +1,11 @@
+git init -- intitalize
+
+git add . --> To Track the files
+
+git commit -m "your message"
+
+git branch -M main
+
+git remote add origin "Repo URL"
+
+git push -u origin main 
